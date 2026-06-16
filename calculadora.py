@@ -1,1 +1,6 @@
-print("Hola Git")
+print("Calculadora iniciada")
+
+num1 = int(input("Primer número: "))
+num2 = int(input("Segundo número: "))
+
+print("Resultado:", num1 + num2)
